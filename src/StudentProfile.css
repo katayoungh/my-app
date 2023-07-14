@@ -1,0 +1,15 @@
+.student-card {
+  /* Flex Dispaly */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  /* Width size */
+  width: 650px;
+
+  background-color: #666;
+}
+
+.student-card-elements {
+  margin: 0 50px;
+}
